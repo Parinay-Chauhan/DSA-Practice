@@ -6,4 +6,3 @@
 | 3 | Single Number | LeetCode | Easy |
 | 4 | Reverse Integer | LeetCode | Medium |
 | 5 |  Duplicate In Array | Coding Ninjas | Easy |
-| 6 |  Intersection Of Two Sorted Arrays| Easy |
