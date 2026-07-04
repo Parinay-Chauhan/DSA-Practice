@@ -2,16 +2,15 @@
 =========================================================
 Platform         : Coding Ninjas
 Problem          : Intersection Of Two Sorted Arrays
-Topic            : Arrays
+Topic            : Arrays, Two Pointers
 Difficulty       : Easy
 Approach         : Two Pointers
 Time Complexity  : O(n + m)
 Space Complexity : O(1)
+Note             : Solution is stored in the original platform submission format.
 =========================================================
 */
 
-#include <vector>
-using namespace std;
 
 vector<int> findArrayIntersection(vector<int> &arr1, int n,
                                   vector<int> &arr2, int m)

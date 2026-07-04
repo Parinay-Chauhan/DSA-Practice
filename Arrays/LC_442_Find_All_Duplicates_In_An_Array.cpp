@@ -8,12 +8,11 @@ Difficulty       : Medium
 Approach         : Negative Index Marking
 Time Complexity  : O(n)
 Space Complexity : O(1) Auxiliary
+Note             : Solution is stored in the original platform submission format.
 =========================================================
 */
 
-#include <vector>
-#include <cstdlib>
-using namespace std;
+
 
 class Solution {
 public:
