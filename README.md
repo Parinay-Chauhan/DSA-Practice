@@ -49,8 +49,8 @@ This repository is intended for learning, revision, and interview preparation ra
 
 |    Topic      |    Solved   |
 |   --------    |   -------   |
-|    Arrays     |       2     |
-|    Strings    |       0     |
+|    Arrays     |       4     |
+|    Strings    |       1     |
 |   Linked List |       0     |
 |     Stack     |       0     |
 |     Queue     |       0     |
