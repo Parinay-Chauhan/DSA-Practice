@@ -3,3 +3,5 @@
 |---|---------|----------|------------|
 | 1 | Intersection Of Two Sorted Arrays | Coding Ninjas | Easy |
 | 2 | Find All Duplicates in an Array | LeetCode | Medium | 
+| 3 | Single Number | LeetCode | Easy |
+| 4 | Reverse Integer | Medium |
