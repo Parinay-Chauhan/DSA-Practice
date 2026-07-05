@@ -1,13 +1,14 @@
 /*
 =========================================================
-Platform      : LeetCode
-Problem ID    : LC-0231
-Problem       : Power of Two
-Topic         : Math, Bit Manipulation, Recursion
-Difficulty    : Easy
-Approach      : Iterative (Multiplication) Approach
-Time          : O(31) or O(1)
-Space         : O(1)
+Platform          : LeetCode
+Problem ID        : LC-0231
+Problem           : Power of Two
+Topic             : Math, Bit Manipulation, Recursion
+Difficulty        : Easy
+Approach          : Iterative (Multiplication) Approach
+Time Complexity   : O(31) or O(1)
+Space Complexity  : O(1)
+Note              : Solution is stored in the original platform submission format.
 =========================================================
 */
 

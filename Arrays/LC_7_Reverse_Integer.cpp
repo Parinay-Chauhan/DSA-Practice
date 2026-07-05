@@ -1,13 +1,14 @@
 /*
 =========================================================
-Platform         : LeetCode
-Problem          : Reverse Integer
-Topic            : Math
-Difficulty       : Medium
-Approach         : String Conversion
-Time Complexity  : O(n)
-Space Complexity : O(n)
-Note             : Solution is stored in the original platform submission format.
+Platform          : LeetCode
+Problem ID        : LC-07
+Problem           : Reverse Integer
+Topic             : Math
+Difficulty        : Medium
+Approach          : String Conversion
+Time Complexity   : O(n)
+Space Complexity  : O(n)
+Note              : Solution is stored in the original platform submission format.
 =========================================================
 */
 
