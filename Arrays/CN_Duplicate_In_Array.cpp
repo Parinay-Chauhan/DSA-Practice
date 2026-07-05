@@ -2,9 +2,9 @@
 =========================================================
 Platform         : Coding Ninjas
 Problem          : Duplicate in Array
-Topic            : Arrays, Hashing
+Topic            : Arrays, Bit Manipulation (XOR), XOR Properties
 Difficulty       : Easy
-Approach         : XOR Operation
+Approach         : XOR Approach or Bit Manipulation (XOR) Approach
 Time Complexity  : O(n)
 Space Complexity : O(1)
 Note             : Solution is stored in the original platform submission format.
@@ -15,8 +15,6 @@ Note             : Solution is stored in the original platform submission format
 
 int findDuplicate(vector<int> &arr) 
 {
-    // Write your code here
-
     int ans = 0;
 
        // XOR on all array elements

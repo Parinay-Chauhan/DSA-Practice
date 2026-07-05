@@ -5,9 +5,9 @@ Problem ID        : LC-07
 Problem           : Reverse Integer
 Topic             : Math
 Difficulty        : Medium
-Approach          : String Conversion
-Time Complexity   : O(n)
-Space Complexity  : O(n)
+Approach          : Digit Extraction and Reverse Approach or  Mathematical Reversal Approach
+Time Complexity   : O(log₁₀N) (or O(1) for fixed 32-bit integer)
+Space Complexity  : O(1)
 Note              : Solution is stored in the original platform submission format.
 =========================================================
 */

@@ -3,9 +3,9 @@
 Platform          : LeetCode
 Problem ID        : LC-0136
 Problem           : Single Number
-Topic             : Arrays, Bit Manipulation
+Topic             : Array, Bit Manipulation
 Difficulty        : Easy
-Approach          : XOR Operation
+Approach          : XOR Approach or Bit Manipulation (XOR) Approach
 Time Complexity   : O(n)
 Space Complexity  : O(1)
 Note              : Solution is stored in the original platform submission format.

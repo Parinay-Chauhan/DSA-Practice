@@ -11,7 +11,7 @@ Note             : Solution is stored in the original platform submission format
 =========================================================
 */
 
-
+#include <bits/stdc++.h>
 vector<int> findArrayIntersection(vector<int> &arr1, int n, vector<int> &arr2, int m){
     
     int i = 0, j = 0;

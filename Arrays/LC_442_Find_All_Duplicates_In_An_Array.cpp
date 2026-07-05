@@ -3,7 +3,7 @@
 Platform         : LeetCode
 Problem ID       : LC-0442
 Problem          : Find All Duplicates in an Array
-Topics           : Arrays, Hashing (Index Marking)
+Topics           : Array, Hash Table, Sorting
 Difficulty       : Medium
 Approach         : Negative Index Marking
 Time Complexity  : O(n)
