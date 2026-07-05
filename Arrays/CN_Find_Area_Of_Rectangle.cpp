@@ -11,16 +11,14 @@ Note          : Solution is stored in the original platform submission format.
 =========================================================
 */
 
-
-
 #include <iostream>
 using namespace std;
 
-int main() {
-    //Write your code here
-       int L, B;
+int main()
+{
+    int L, B;
     cin >> L >> B;
     cout << (L * B);
-   
+
     return 0;
 }

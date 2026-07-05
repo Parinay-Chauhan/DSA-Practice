@@ -9,3 +9,4 @@
 | 6 | Power of Two | LeetCode | Easy | 
 | 7 | Minimum Common Value | LeetCode | Easy |
 | 8 |  Find Area of Rectangle | Coding Ninjas | Easy | 
+| 9 | Complement of Base 10 Integer | LeetCode | Easy |
