@@ -8,3 +8,4 @@
 | 5 |  Duplicate In Array | Coding Ninjas | Easy |
 | 6 | Power of Two | LeetCode | Easy | 
 | 7 | Minimum Common Value | LeetCode | Easy |
+| 8 |  Find Area of Rectangle | Coding Ninjas | Easy | 
