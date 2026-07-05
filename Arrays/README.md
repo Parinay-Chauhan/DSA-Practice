@@ -1,13 +1,13 @@
 
 | # | Problem | Platform | Difficulty |
 |---|---------|----------|------------|
-| 1 | Intersection Of Two Sorted Arrays | Coding Ninjas | Easy |
-| 2 | Find All Duplicates in an Array | LeetCode | Medium | 
-| 3 | Single Number | LeetCode | Easy |
-| 4 | Reverse Integer | LeetCode | Medium |
-| 5 |  Duplicate In Array | Coding Ninjas | Easy |
-| 6 | Power of Two | LeetCode | Easy | 
-| 7 | Minimum Common Value | LeetCode | Easy |
-| 8 |  Find Area of Rectangle | Coding Ninjas | Easy | 
-| 9 | Complement of Base 10 Integer | LeetCode | Easy |
-| 10 | 1281. Subtract the Product and Sum of Digits of an Integer | Leetcode | Easy |
+| 1. | Intersection Of Two Sorted Arrays | Coding Ninjas | Easy |
+| 2. | Find All Duplicates in an Array | LeetCode | Medium | 
+| 3. | Single Number | LeetCode | Easy |
+| 4. | Reverse Integer | LeetCode | Medium |
+| 5. |  Duplicate In Array | Coding Ninjas | Easy |
+| 6. | Power of Two | LeetCode | Easy | 
+| 7. | Minimum Common Value | LeetCode | Easy |
+| 8. |  Find Area of Rectangle | Coding Ninjas | Easy | 
+| 9. | Complement of Base 10 Integer | LeetCode | Easy |
+| 10. | Subtract the Product and Sum of Digits of an Integer | Leetcode | Easy |
