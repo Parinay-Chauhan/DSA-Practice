@@ -13,23 +13,6 @@ Note          : Solution is stored in the original platform submission format.
 
 
 #include <bits/stdc++.h>
-
-vector<vector<int>> pairSum(vector<int> &arr, int s){
-   vector< vector < int >> ans;
-
-   for(int i =0; i < arr.size(); i++){
-
-      for(int j = i + 1; j < arr.size(); j++){
-
-         if( arr[i] + arr[j] == s){
-
-            vector < int > temp;
-            temp.push_back(min(arr[i], arr[j]));
-            temp.push_back(max(arr[i], arr[j]));
-            ans.push_back(temp);
-         }
-      }
-   }
-   sort(ans.begin(), ans.end());
-   return ans;
-}
+using namespace std;
+vector<vector<int>> findTriplets(vector<int> arr, int n, int K){
+     vector<vector<int>> ans; sort(arr.begin(), arr.end()); for(int i = 0; i < n - 2; i++) { if(i > 0 && arr[i] == arr[i - 1]) continue; int left = i + 1; int right = n - 1; while(left < right) { int sum = arr[i] + arr[left] + arr[right]; if(sum == K) { ans.push_back({arr[i], arr[left], arr[right]}); while(left < right && arr[left] == arr[left + 1]) left++; while(left < right && arr[right] == arr[right - 1]) right--; left++; right--; } else if(sum < K) left++; else right--; } } return ans; }

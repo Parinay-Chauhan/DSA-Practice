@@ -49,7 +49,7 @@ This repository is intended for learning, revision, and interview preparation ra
 
 |    Topic      |    Solved   |
 |   --------    |   -------   |
-|    Arrays     |       11     |
+|    Arrays     |       12     |
 |    Strings    |       1     |
 |   Linked List |       0     |
 |     Stack     |       0     |
