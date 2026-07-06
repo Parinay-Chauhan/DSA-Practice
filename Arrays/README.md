@@ -11,3 +11,4 @@
 | 8. |  Find Area of Rectangle | Coding Ninjas | Easy | 
 | 9. | Complement of Base 10 Integer | LeetCode | Easy |
 | 10. | Subtract the Product and Sum of Digits of an Integer | Leetcode | Easy |
+| 11. | Pair Sum | Coding Ninjas | Easy | 
