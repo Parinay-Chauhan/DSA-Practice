@@ -15,3 +15,4 @@
 | 12. | 3Sum | Coding Ninjas | Moderate | 
 | 13. | First and Last Position of an Element In Sorted Array | Coding Ninjas | Easy |
 | 14. | Peak Index in a Mountain Array | LeetCode | Medium | 
+| 15. | Find Unique | Coding Ninjas | Easy | 
