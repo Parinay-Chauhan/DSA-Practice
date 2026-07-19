@@ -19,3 +19,4 @@
 | 15. | First and Last Position of an Element In Sorted Array | Code360  | Easy       |
 | 16. | Peak Index in a Mountain Array                        | LeetCode | Medium     |
 | 17. | Find Pivot Index                                      | LeetCode | Easy       |
+| 18. | Search in Rotated Sorted Array                        | LeetCode | Medium     |
