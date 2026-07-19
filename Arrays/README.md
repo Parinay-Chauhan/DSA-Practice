@@ -13,5 +13,5 @@
 | 9.  | Intersection Of Two Sorted Arrays | Code360  | Easy       |
 | 10. | Pair Sum                          | Code360  | Easy       |
 | 11. | 3Sum                              | Code360  | Moderate   |
-| 12. | Sort 0 1                          | Code360  | Moderate   | 
-
+| 12. | Sort 0 1                          | Code360  | Moderate   |
+| 13. | Sort 0 1 2                        | Code360  | Easy       |
