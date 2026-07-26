@@ -11,23 +11,22 @@ Note             : Solution is stored in the original platform submission format
 =========================================================
 */
 
-
-
-int findDuplicate(vector<int> &arr) 
+int findDuplicate(vector<int> &arr)
 {
     int ans = 0;
 
-       // XOR on all array elements
-    for(int i =0; i< arr.size(); i++){
-        ans  = ans ^ arr[i];
+    // XOR on all array elements
+    for (int i = 0; i < arr.size(); i++)
+    {
+        ans = ans ^ arr[i];
     }
 
     // XOR [ 1, n-1]
 
-    for(int i =1; i < arr.size(); i++){
+    for (int i = 1; i < arr.size(); i++)
+    {
         ans = ans ^ i;
     }
 
     return ans;
-	
 }
