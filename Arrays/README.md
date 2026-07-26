@@ -21,3 +21,4 @@
 | 17. | Find Pivot Index                                      | LeetCode | Easy       |
 | 18. | Search in Rotated Sorted Array                        | LeetCode | Medium     |
 | 19. | Sqrt(x)                                               | LeetCode | Easy       |
+| 20. | Allocate Books                                        | Code360  | Moderate   |
