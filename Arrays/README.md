@@ -23,3 +23,4 @@
 | 19. | Sqrt(x)                                               | LeetCode | Easy       |
 | 20. | Allocate Books                                        | Code360  | Moderate   |
 | 21. | Painter's Partition Problem                           | Code360  | Moderate   |
+| 22. | Aggressive Cows                                       | Code360  | Moderate   |
