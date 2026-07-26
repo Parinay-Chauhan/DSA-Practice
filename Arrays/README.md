@@ -20,3 +20,4 @@
 | 16. | Peak Index in a Mountain Array                        | LeetCode | Medium     |
 | 17. | Find Pivot Index                                      | LeetCode | Easy       |
 | 18. | Search in Rotated Sorted Array                        | LeetCode | Medium     |
+| 19. | Sqrt(x)                                               | LeetCode | Easy       |

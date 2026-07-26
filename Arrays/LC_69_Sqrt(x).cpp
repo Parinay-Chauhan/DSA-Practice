@@ -12,8 +12,6 @@ Note               : Solution is stored in the original platform submission form
 =========================================================
 */
 
-
-
 class Solution
 {
 public:
