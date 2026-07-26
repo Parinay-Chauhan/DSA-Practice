@@ -25,3 +25,4 @@
 | 21. | Painter's Partition Problem                           | Code360  | Moderate   |
 | 22. | Aggressive Cows                                       | Code360  | Moderate   |
 | 23. | Selection Sort                                        | Code360  | Easy       |
+| 24. | Bubble Sort                                           | Code360  | Easy       |
