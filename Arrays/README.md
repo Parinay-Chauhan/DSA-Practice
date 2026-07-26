@@ -22,3 +22,4 @@
 | 18. | Search in Rotated Sorted Array                        | LeetCode | Medium     |
 | 19. | Sqrt(x)                                               | LeetCode | Easy       |
 | 20. | Allocate Books                                        | Code360  | Moderate   |
+| 21. | Painter's Partition Problem                           | Code360  | Moderate   |
