@@ -26,3 +26,4 @@
 | 22. | Aggressive Cows                                       | Code360  | Moderate   |
 | 23. | Selection Sort                                        | Code360  | Easy       |
 | 24. | Bubble Sort                                           | Code360  | Easy       |
+| 25. | Insertion Sort                                        | Code360  | Easy       |
