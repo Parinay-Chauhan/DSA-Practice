@@ -4,4 +4,5 @@
 | --- | ----------------------------------------------------- | -------- | ---------- |
 | 01. | First and Last Position of an Element In Sorted Array | Code360  | Easy       |
 | 02. | Peak Index in a Mountain Array                        | LeetCode | Medium     |
-| 21. | Painter's Partition Problem                           | Code360  | Moderate   |
+| 03. | Painter's Partition Problem                           | Code360  | Moderate   |
+| 04. | Find Pivot Index                                      | LeetCode | Easy       |
